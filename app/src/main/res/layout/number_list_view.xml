@@ -10,7 +10,7 @@
         android:fontFamily="monospace"
         android:textSize="42sp"/>
     <TextView
-        android:id="@+id/string_body"
+        android:id="@+id/number_list_string"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         style="@style/TextAppearance.AppCompat.Small"
