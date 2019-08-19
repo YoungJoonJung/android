@@ -14,11 +14,9 @@ package com.example.recyclerviewstudy;
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package com.example.android.recyclerview;
-
-        import android.content.Context;
-        import android.graphics.Color;
-        import android.support.v4.content.ContextCompat;
+import android.content.Context;
+import android.graphics.Color;
+import android.support.v4.content.ContextCompat;
 
 /**
  * ColorUtils is a class with one method, used to color the ViewHolders in
