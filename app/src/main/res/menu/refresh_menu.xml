@@ -6,4 +6,8 @@
         android:id="@+id/refreh_button"
         android:title="@string/menu_refresh"
         app:showAsAction="ifRoom"/>
+    <item
+        android:id="@+id/reset_button"
+        android:title="@string/menu_reset"
+        app:showAsAction="ifRoom"/>
 </menu>
